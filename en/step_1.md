@@ -1,19 +1,19 @@
-## Introduction
+You can use the `sleep` function to temporarily pause your program.
 
-Add project description here. What will learners be making?
++ Add this line of code at the top of your program to import the sleep function
 
-### What you will make
+```python
+from time import sleep
+```
 
-Add something here to showcase here, for example:
++ Whenever you want a pause in your program, call the sleep function. The number in the brackets is how many seconds you would like the program to pause for.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+```python
+sleep(2)
+```
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+You can pause for fractions of a second too
 
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+```python
+sleep(0.5)
+```
