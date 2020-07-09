@@ -1,18 +1,18 @@
-You can use the `sleep` function to temporarily pause your Python program.
+Μπορείς να χρησιμοποιήσεις τη συνάρτηση `sleep` για προσωρινή παύση του προγράμματος Python.
 
-+ Add this line of code at the top of your program to import the `sleep` function.
++ Πρόσθεσε αυτήν τη γραμμή κώδικα στο επάνω μέρος του προγράμματός σου για να εισαγάγεις τη συνάρτηση `sleep`.
 
 ```python
 from time import sleep
 ```
 
-+ Whenever you want a pause in your program, call the `sleep` function. The number in the brackets indicates how many seconds you would like the pause to be.
++ Όποτε θέλεις μια παύση στο πρόγραμμά σου, κάλεσε τη συνάρτηση `sleep`. Ο αριθμός στις αγκύλες υποδεικνύει πόσα δευτερόλεπτα θα ήθελες να είναι η παύση.
 
 ```python
 sleep(2)
 ```
 
-You can pause for fractions of a second as well.
+Μπορείς επίσης να κάνεις την παύση για κλάσματα του δευτερολέπτου.
 
 ```python
 sleep(0.5)
