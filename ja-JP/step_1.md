@@ -1,18 +1,18 @@
-You can use the `sleep` function to temporarily pause your Python program.
+`sleep`（スリープ）関数を使って、Pythonプログラムを一時的に止めることができます。
 
-+ Add this line of code at the top of your program to import the `sleep` function.
++ 次のコード行をプログラムの先頭に追加して、`sleep`（スリープ）関数をインポートします。
 
 ```python
 from time import sleep
 ```
 
-+ Whenever you want a pause in your program, call the `sleep` function. The number in the brackets indicates how many seconds you would like the pause to be.
++ プログラムを一時的に止めたいときは`sleep`（スリープ）関数を呼び出します。 かっこの中の数字は何秒止めるかを示しています。
 
 ```python
 sleep(2)
 ```
 
-You can pause for fractions of a second as well.
+1秒より短い間だけ止めることもできます。
 
 ```python
 sleep(0.5)
