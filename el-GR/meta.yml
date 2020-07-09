@@ -1,7 +1,7 @@
 ---
-title: Using Python's sleep command
+title: Χρησιμοποιώντας την εντολή ύπνου της Python
 hero_image: images/banner.png
-description: Learn how to pause a Python program with the sleep command
+description: Μάθε πώς μπορείς να διακόψεις ένα πρόγραμμα Python με την εντολή ύπνου
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
@@ -13,4 +13,4 @@ technologies: "python"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Εισαγωγή
