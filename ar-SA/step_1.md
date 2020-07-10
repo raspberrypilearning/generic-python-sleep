@@ -1,19 +1,19 @@
-You can use the `sleep` function to temporarily pause your Python program.
+يمكنك استخدام دالة` النوم` لايقاف برنامج Python الخاص بك مؤقتا.
 
-+ Add this line of code at the top of your program to import the `sleep` function.
++ اضف هذا السطر من التعليمات البرمجية في الجزء العلوي من برنامجك لاستيراد دالة`النوم`.
 
 ```python
-from time import sleep
+from الوقت import النوم
 ```
 
-+ Whenever you want a pause in your program, call the `sleep` function. The number in the brackets indicates how many seconds you would like the pause to be.
++ كلما أردت ايقاف برنامجك، اطلب دالة`النوم`. الرقم بين الأقواس يشير الى عدد الثواني التي تريد أن يكون التوقف بها.
 
 ```python
-sleep(2)
+النوم (2)
 ```
 
-You can pause for fractions of a second as well.
+يمكنك التوقف لاجزاء من الثانية ايضا.
 
 ```python
-sleep(0.5)
+النوم (0.5)
 ```
