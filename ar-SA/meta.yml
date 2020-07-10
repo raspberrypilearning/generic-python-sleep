@@ -1,7 +1,7 @@
 ---
 title: استخدم امر sleep الخاص بPython
 hero_image: images/banner.png
-description: تعلم كيف توقف برنامج Python باستخدام امر النوم
+description: تعلم كيف توقف برنامج Python باستخدام امر sleep
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
