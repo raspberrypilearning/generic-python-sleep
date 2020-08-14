@@ -1,18 +1,18 @@
-You can use the `sleep` function to temporarily pause your Python program.
+Puoi usare la funzione `sleep` per mettere temporaneamente in pausa il tuo programma Python.
 
-+ Add this line of code at the top of your program to import the `sleep` function.
++ Aggiungi questa riga di codice nella parte superiore del programma per importare la funzione `sleep`.
 
 ```python
 from time import sleep
 ```
 
-+ Whenever you want a pause in your program, call the `sleep` function. The number in the brackets indicates how many seconds you would like the pause to be.
++ Ogni volta che desideri una pausa nel tuo programma, esegui la funzione `sleep`. Il numero tra parentesi indica quanti secondi vorresti che durasse la pausa.
 
 ```python
 sleep(2)
 ```
 
-You can pause for fractions of a second as well.
+È anche possibile mettere in pausa per frazioni di secondo.
 
 ```python
 sleep(0.5)
