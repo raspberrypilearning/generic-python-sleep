@@ -1,18 +1,18 @@
-You can use the `sleep` function to temporarily pause your Python program.
+`sleep` 함수를 사용해서 일시적으로 Python 프로그램을 멈추게 할 수 있습니다.
 
-+ Add this line of code at the top of your program to import the `sleep` function.
++ 다음 코드를 프로그램의 상단에 추가하여 `sleep` 함수를 불러오세요.
 
 ```python
 from time import sleep
 ```
 
-+ Whenever you want a pause in your program, call the `sleep` function. The number in the brackets indicates how many seconds you would like the pause to be.
++ 프로그램 내에서 일시중지를 하고 싶을 때면 `sleep` 함수를 호출하세요. 괄호 안의 숫자가 일시중지 하는 시간(초)을 나타냅니다.
 
 ```python
 sleep(2)
 ```
 
-You can pause for fractions of a second as well.
+소수 값을 입력해서 0.5초만큼 일시정지 할 수도 있습니다.
 
 ```python
 sleep(0.5)
