@@ -2,7 +2,7 @@
 title: Python의 sleep 명령어 사용하기
 hero_image: images/banner.png
 description: sleep 명령어로 Python 프로그램을 일시 중지하는 방법 알아보기
-theme: 빨간색 #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
