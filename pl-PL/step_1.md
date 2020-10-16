@@ -17,3 +17,4 @@ Możesz także wstrzymać program na części sekundy.
 ```python
 sleep(0.5)
 ```
+
