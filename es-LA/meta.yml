@@ -1,7 +1,7 @@
 ---
-title: Using Python's sleep command
+title: Usar el comando sleep de Python
 hero_image: images/banner.png
-description: Learn how to pause a Python program with the sleep command
+description: Aprende cómo pausar un programa de Python con el comando sleep
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
@@ -13,4 +13,4 @@ technologies: "python"
 site_areas:
 steps:
   - 
-    title: Introduction
+    title: Introducción
